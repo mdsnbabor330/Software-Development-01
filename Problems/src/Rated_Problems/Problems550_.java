@@ -1,3 +1,4 @@
+
 package Rated_Problems;
 import java.util.Scanner;
 public class Problems550_ {

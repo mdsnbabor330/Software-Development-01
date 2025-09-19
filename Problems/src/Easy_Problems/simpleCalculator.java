@@ -1,9 +1,7 @@
 package Easy_Problems;
 
 import java.util.Scanner;
-
 public class simpleCalculator {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter 1st number: ");
@@ -28,6 +26,5 @@ public class simpleCalculator {
             default:
                 System.out.println("Invalid!");
         }
-
     }
 }

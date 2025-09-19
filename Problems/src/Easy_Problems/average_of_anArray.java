@@ -12,7 +12,7 @@ public class average_of_anArray  {
 		for(int i=0; i<n; i++){
 			sum+=arr[i];
 		}
-		double avg = sum/n;
+		double avg = (double) sum/n;
 		System.out.print(avg);
     }
 }

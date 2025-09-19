@@ -17,11 +17,9 @@ public class search_elementArray {
 				found++;
 				break;
 			}
-
 		}
 		if(found==0){
 			System.out.println("Not Found");
 		}
-
 	}
 }
